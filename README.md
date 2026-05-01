@@ -19,13 +19,42 @@ This repository contains the pancake recipe files organized by page and language
 | `page4_EN.png` | Add files via upload |
 | `page4_RU.png` | Add files via upload |
 
-## Files Description
+## Content
 
-* **page1_EN.png:** English version of the first page of the recipe.
-* **page1_RU.png:** Russian version of the first page of the recipe.
-* **page2_EN.png:** English version of the second page of the recipe.
-* **page2_RU.png:** Russian version of the second page of the recipe.
-* **page3_EN.png:** English version of the third page of the recipe.
-* **page3_RU.png:** Russian version of the third page of the recipe.
-* **page4_EN.png:** English version of the fourth page of the recipe.
-* **page4_RU.png:** Russian version of the fourth page of the recipe.
+### Page 1
+
+#### English Version
+![Page 1 English](page1_EN.png)
+
+#### Russian Version
+![Page 1 Russian](page1_RU.png)
+
+---
+
+### Page 2
+
+#### English Version
+![Page 2 English](page2_EN.png)
+
+#### Russian Version
+![Page 2 Russian](page2_RU.png)
+
+---
+
+### Page 3
+
+#### English Version
+![Page 3 English](page3_EN.png)
+
+#### Russian Version
+![Page 3 Russian](page3_RU.png)
+
+---
+
+### Page 4
+
+#### English Version
+![Page 4 English](page4_EN.png)
+
+#### Russian Version
+![Page 4 Russian](page4_RU.png)
