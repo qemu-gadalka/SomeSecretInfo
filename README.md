@@ -12,7 +12,7 @@
 ### Page 2
 
 #### Russian Version
-![Page 2 Russian](page2_RU.png)
+![Page 2 Russian](pancake_recipe/page2_RU.png)
 
 ---
 
