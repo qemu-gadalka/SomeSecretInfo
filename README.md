@@ -24,10 +24,10 @@ This repository contains the pancake recipe files organized by page and language
 ### Page 1
 
 #### English Version
-![Page 1 English](page1_EN.png)
+![Page 1 English](pancake_recipe/page1_EN.png)
 
 #### Russian Version
-![Page 1 Russian](page1_RU.png)
+![Page 1 Russian](pancake_recipe/page1_RU.png)
 
 ---
 
